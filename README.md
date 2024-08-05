@@ -1,7 +1,10 @@
 # Hi 👋, I'm Walid Chebbab
 ### A Fullstack web developer
 
-- 🎓 I’m currently a computer science student at **Université des Sciences et de la Technologie Houari Boumediene Algeria**
+- 🎓 Software Engineering graduate with 2 years of experience in MERN stack and mobile development
+using React Native. Proficient in building full-stack web and mobile applications, from front-end
+design to back-end implementation. Strong problem-solving abilities and a passion for learning new
+technologies.
 
 - 📫 You can reach me at **walidchebbab2001@gmail.com**
 
