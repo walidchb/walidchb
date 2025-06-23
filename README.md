@@ -1,10 +1,10 @@
 # Hi 👋, I'm Walid Chebbab
-### A Fullstack web developer
+### A Software engineer
 
-- 🎓 Software Engineering graduate with 2 years of experience in MERN stack and mobile development
-using React Native. Proficient in building full-stack web and mobile applications, from front-end
-design to back-end implementation. Strong problem-solving abilities and a passion for learning new
-technologies.
+- 🎓 Software engineer focused on full-stack web and mobile development using React.js, Next.js,
+Node.js, and React Native. Skilled in designing and implementing scalable applications, from front-
+end interfaces to back-end systems. Passionate about solving complex problems, optimizing
+performance, and continuously learning new technologies.
 
 - 📫 You can reach me at **walidchebbab2001@gmail.com**
 
